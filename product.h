@@ -14,7 +14,7 @@ class Product
 		int likes;	
 		int p;
 		int q;
-		int t;	
+		int t1;	
 	public:
 		Product();
 		Product(int id, string title,string desc,double price,int quantity,int likes);
